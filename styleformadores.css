@@ -1,0 +1,37 @@
+#banner{
+   width: 100%; 
+   height: 600px;
+   margin: 20px;
+}
+.principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: 255 255 000;
+}
+body{
+    background: #CCCCCC;
+}
+strong{
+    color: green;
+}
+li{
+    background: #97C6F6;
+    border: #339999 solid 4px;
+}
+
+#missao{
+    font-size: 25px;
+}
+
+.servicos{
+    background: #dcdcdc;
+    padding: 10px;
+    font-size: 20px;
+}
