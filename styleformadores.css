@@ -1,11 +1,12 @@
 #banner{
-   width: 100%; 
+   width: 97%; 
    height: 600px;
    margin: 20px;
 }
 .principal{
-    background: #CCCCCC;
+    background: #48A6AB;
     padding: 30px;
+    margin: 20px;
 }
 
 p{
@@ -16,22 +17,63 @@ h1{
     color: 255 255 000;
 }
 body{
-    background: #CCCCCC;
+    background: #F79E4F;
 }
-strong{
+#missao-strong{
     color: green;
-}
-li{
-    background: #97C6F6;
-    border: #339999 solid 4px;
 }
 
 #missao{
     font-size: 25px;
+    color: black;
 }
 
 .servicos{
-    background: #dcdcdc;
-    padding: 10px;
     font-size: 20px;
+    margin: 20px;
+    background: #97C6F6;
+}
+#serv{
+    margin: 20px;
+}
+.imagem-calculo-folha{
+    width: 60%; 
+   height: 400px;
+   margin-left: 250px; 
+   padding: 20px;
+}
+
+.acesso-facil{
+    height: 2%;
+    background: ;
+}
+#acesso-rapido{
+    text-align: center;
+
+}
+.imgReceita{
+    width: 6%;
+    height: 6%;
+    margin-left: 140px;
+}
+.imgSimples{
+    width: 6%;
+    height: 6%;
+    margin-left: 167px;
+}
+.imgSefa{
+   width: 6%;
+    height: 6%;
+    margin-left: 220px;
+    }
+.imgCTPSdig{
+    width: 8%;
+    height: 8%;
+    margin-left: 300px;
+ 
+}
+
+.rodape{
+    background: #35F1FA;
+    margin: 20px;
 }
