@@ -1,0 +1,67 @@
+#tituloCentral{
+	background: #20B2AA;
+	margin: 10px;
+	font-family: 'Rubik Bubbles', cursive;
+}
+#imgAdmissao {
+	width: 100px;
+	padding: 10px;
+}
+.caixa {
+	position: relative;
+	width: 940px;
+	margin: 0 auto;
+}
+header {
+	padding: 20px 0;
+}
+body{
+	background: #B0C4DE;
+}
+
+ul{
+	font-family: 'Rubik Bubbles', cursive;
+}
+nav {
+	position: absolute;
+	top: 65px;
+	right: 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
+
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #ffd700;
+	text-decoration: none;
+
+}
+
+.produtosAdmissao li {
+	display: inline-block;
+}
+
+.imgPagAdmissao {
+	width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.rodape{
+    background: #35F1FA;
+    margin: 10px;
+    text-align: center;
+}

@@ -1,6 +1,10 @@
 #linkPaginas{
     padding: 30px;
 }
+
+.titulo-principal{
+    padding: 10px;
+}
 #banner{
    width: 97%; 
    height: 600px;
@@ -10,6 +14,10 @@
     background: #48A6AB;
     padding: 30px;
     margin: 20px;
+}
+h1,h2,h3,h4,h5,h6,p,ul{
+    padding: 10px;
+    margin: 10px;
 }
 
 p{
